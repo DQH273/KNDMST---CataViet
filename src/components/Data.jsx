@@ -37,7 +37,7 @@ export const pics = [
     "desc": "Trang phục truyền thống nữ Việt Nam, tinh tế và duyên dáng",
     "tag": "Văn hóa",
     "detail": "Áo dài là áo dài ôm sát cơ thể, thường mặc trong dịp lễ, tết hoặc sự kiện quan trọng. Nó tượng trưng cho sự duyên dáng, thanh lịch và nét văn hóa truyền thống",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/aodai.png"
+    "img": "https://catalogue-backend-cfpg.onrender.com/images/aodai1.png"
   },
   {
     "id": 6,
