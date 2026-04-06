@@ -1,170 +1,191 @@
 export const pics = [
-    {
-    "id": 1,
-    "name": "Bánh mì",
-    "desc": "Bánh mì Việt Nam với nhân đa dạng, kết hợp văn hóa Pháp và Việt",
-    "detail": "Bánh mì là loại bánh mì baguette, thường kẹp pate, thịt, rau thơm, dưa leo, và sốt đặc trưng. Đây là món ăn nhanh phổ biến ở khắp nơi, phản ánh sự giao thoa văn hóa Pháp – Việt.",
-    "tag": "Đồ ăn",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/banhmi.png"
+  {
+    id: 1,
+    name: "Bánh mì",
+    desc: "Bánh mì Việt Nam với nhân đa dạng, kết hợp văn hóa Pháp và Việt",
+    detail:
+      "Bánh mì là loại bánh mì baguette, thường kẹp pate, thịt, rau thơm, dưa leo, và sốt đặc trưng. Đây là món ăn nhanh phổ biến ở khắp nơi, phản ánh sự giao thoa văn hóa Pháp – Việt.",
+    tag: "Đồ ăn",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/banhmi.png",
   },
   {
-    "id": 2,
-    "name": "Phở",
-    "desc": "Món nước truyền thống, nổi tiếng với bánh phở và nước dùng thơm ngon",
-    "tag": "Đồ ăn",
-    "detail": "Phở là món ăn quốc hồn quốc túy của Việt Nam, gồm bánh phở mềm, thịt bò hoặc gà, và nước dùng ninh từ xương trong nhiều giờ. Thường ăn kèm với hành, giá, chanh và ớt",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/pho.png"
+    id: 2,
+    name: "Phở",
+    desc: "Món nước truyền thống, nổi tiếng với bánh phở và nước dùng thơm ngon",
+    tag: "Đồ ăn",
+    detail:
+      "Phở là món ăn quốc hồn quốc túy của Việt Nam, gồm bánh phở mềm, thịt bò hoặc gà, và nước dùng ninh từ xương trong nhiều giờ. Thường ăn kèm với hành, giá, chanh và ớt",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/pho.png",
   },
   {
-    "id": 3,
-    "name": "Bún chả",
-    "desc": "Món bún nổi tiếng Hà Nội với thịt nướng và nước chấm đặc trưng",
-    "detail": "Bún chả gồm bún tươi, chả thịt heo nướng than, nước mắm pha ngọt mặn, ăn kèm rau sống và nem rán. Món ăn này từng được Tổng thống Obama thưởng thức khi đến Việt Nam",
-    "tag": "Đồ ăn",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/buncha.png"
+    id: 3,
+    name: "Bún chả",
+    desc: "Món bún nổi tiếng Hà Nội với thịt nướng và nước chấm đặc trưng",
+    detail:
+      "Bún chả gồm bún tươi, chả thịt heo nướng than, nước mắm pha ngọt mặn, ăn kèm rau sống và nem rán. Món ăn này từng được Tổng thống Obama thưởng thức khi đến Việt Nam",
+    tag: "Đồ ăn",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/buncha.png",
   },
   {
-    "id": 4,
-    "name": "Gỏi cuốn",
-    "desc": "Cuốn tươi, nhẹ nhàng, ăn kèm nước chấm đậm đà",
-    "detail": "Gỏi cuốn gồm tôm, thịt, bún, rau sống cuốn trong bánh tráng mỏng. Ăn kèm nước mắm chua ngọt hoặc tương đậu phộng, là món ăn nhẹ phổ biến, thanh mát",
-    "tag": "Đồ ăn",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/goicuon.png"
+    id: 4,
+    name: "Gỏi cuốn",
+    desc: "Cuốn tươi, nhẹ nhàng, ăn kèm nước chấm đậm đà",
+    detail:
+      "Gỏi cuốn gồm tôm, thịt, bún, rau sống cuốn trong bánh tráng mỏng. Ăn kèm nước mắm chua ngọt hoặc tương đậu phộng, là món ăn nhẹ phổ biến, thanh mát",
+    tag: "Đồ ăn",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/goicuon.png",
   },
   {
-    "id": 5,
-    "name": "Áo dài",
-    "desc": "Trang phục truyền thống nữ Việt Nam, tinh tế và duyên dáng",
-    "tag": "Văn hóa",
-    "detail": "Áo dài là áo dài ôm sát cơ thể, thường mặc trong dịp lễ, tết hoặc sự kiện quan trọng. Nó tượng trưng cho sự duyên dáng, thanh lịch và nét văn hóa truyền thống",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/aodai1.png"
+    id: 5,
+    name: "Áo dài",
+    desc: "Trang phục truyền thống nữ Việt Nam, tinh tế và duyên dáng",
+    tag: "Văn hóa",
+    detail:
+      "Áo dài là áo dài ôm sát cơ thể, thường mặc trong dịp lễ, tết hoặc sự kiện quan trọng. Nó tượng trưng cho sự duyên dáng, thanh lịch và nét văn hóa truyền thống",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/aodai2.png",
   },
   {
-    "id": 6,
-    "name": "Tết Nguyên Đán",
-    "desc": "Lễ hội lớn nhất trong năm của người Việt",
-    "tag": "Văn hóa",
-    "detail": "Tết là dịp sum họp gia đình, thăm hỏi tổ tiên, lì xì và thưởng thức các món ăn truyền thống. Đây là sự kiện văn hóa quan trọng nhất, phản ánh tâm linh và giá trị gia đình",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/tet.png"
+    id: 6,
+    name: "Tết Nguyên Đán",
+    desc: "Lễ hội lớn nhất trong năm của người Việt",
+    tag: "Văn hóa",
+    detail:
+      "Tết là dịp sum họp gia đình, thăm hỏi tổ tiên, lì xì và thưởng thức các món ăn truyền thống. Đây là sự kiện văn hóa quan trọng nhất, phản ánh tâm linh và giá trị gia đình",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/tet.png",
   },
   {
-    "id": 7,
-    "name": "Đàn bầu",
-    "desc": "Nhạc cụ dây đơn, tạo âm thanh độc đáo, trữ tình",
-    "tag": "Văn hóa",
-    "detail": "Đàn bầu chỉ có một dây, người chơi sử dụng kỹ thuật uốn dây và gảy để tạo âm thanh phong phú. Nhạc cụ này thường xuất hiện trong các chương trình dân gian, truyền tải cảm xúc sâu lắng",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/danbau.png"
+    id: 7,
+    name: "Đàn bầu",
+    desc: "Nhạc cụ dây đơn, tạo âm thanh độc đáo, trữ tình",
+    tag: "Văn hóa",
+    detail:
+      "Đàn bầu chỉ có một dây, người chơi sử dụng kỹ thuật uốn dây và gảy để tạo âm thanh phong phú. Nhạc cụ này thường xuất hiện trong các chương trình dân gian, truyền tải cảm xúc sâu lắng",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/danbau.png",
   },
   {
-    "id": 8,
-    "name": "Nghi lễ cúng ông Táo",
-    "desc": "Lễ cúng vào 23 tháng Chạp, tiễn Táo quân về trời",
-    "tag": "Văn hóa",
-    "detail": "Người Việt chuẩn bị mâm cỗ với cá chép, hoa quả, bánh trái, nhang đèn để tiễn Táo quân. Lễ này phản ánh tín ngưỡng thờ cúng, quan niệm về may mắn và tài lộc",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/ongtao.png"
+    id: 8,
+    name: "Nghi lễ cúng ông Táo",
+    desc: "Lễ cúng vào 23 tháng Chạp, tiễn Táo quân về trời",
+    tag: "Văn hóa",
+    detail:
+      "Người Việt chuẩn bị mâm cỗ với cá chép, hoa quả, bánh trái, nhang đèn để tiễn Táo quân. Lễ này phản ánh tín ngưỡng thờ cúng, quan niệm về may mắn và tài lộc",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/ongtao.png",
   },
   {
-    "id": 9,
-    "name": "Vịnh Hạ Long",
-    "desc": "Di sản thiên nhiên thế giới, nổi bật với hàng nghìn đảo đá vôi",
-    "tag": "Du lịch",
-    "detail": "Vịnh Hạ Long nằm ở Quảng Ninh, nổi tiếng với cảnh quan kỳ vĩ, các hang động và đảo đá vôi. Du khách có thể tham quan bằng thuyền và thưởng thức hoạt động leo núi, chèo kayak",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/halong.png"
+    id: 9,
+    name: "Vịnh Hạ Long",
+    desc: "Di sản thiên nhiên thế giới, nổi bật với hàng nghìn đảo đá vôi",
+    tag: "Du lịch",
+    detail:
+      "Vịnh Hạ Long nằm ở Quảng Ninh, nổi tiếng với cảnh quan kỳ vĩ, các hang động và đảo đá vôi. Du khách có thể tham quan bằng thuyền và thưởng thức hoạt động leo núi, chèo kayak",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/halong.png",
   },
   {
-    "id": 10,
-    "name": "Phố cổ Hội An",
-    "desc": "Di sản văn hóa với kiến trúc cổ và đèn lồng rực rỡ",
-    "tag": "Du lịch",
-    "detail": "Hội An giữ nguyên nét kiến trúc nhà cổ, phố đi bộ với đèn lồng đa màu. Đây là nơi lưu giữ các giá trị văn hóa từ thương cảng xưa và là điểm du lịch nổi tiếng",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/hoian.png"
+    id: 10,
+    name: "Phố cổ Hội An",
+    desc: "Di sản văn hóa với kiến trúc cổ và đèn lồng rực rỡ",
+    tag: "Du lịch",
+    detail:
+      "Hội An giữ nguyên nét kiến trúc nhà cổ, phố đi bộ với đèn lồng đa màu. Đây là nơi lưu giữ các giá trị văn hóa từ thương cảng xưa và là điểm du lịch nổi tiếng",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/hoian.png",
   },
   {
-    "id": 11,
-    "name": "Sa Pa",
-    "desc": "Thị trấn núi phía Bắc, nổi tiếng với ruộng bậc thang và bản làng dân tộc",
-    "tag": "Du lịch",
-    "detail": "Sa Pa là điểm trekking và du lịch sinh thái, với khí hậu mát mẻ quanh năm. Du khách trải nghiệm văn hóa dân tộc, homestay, chợ phiên và cảnh núi non hùng vĩ",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/sapa.png"
+    id: 11,
+    name: "Sa Pa",
+    desc: "Thị trấn núi phía Bắc, nổi tiếng với ruộng bậc thang và bản làng dân tộc",
+    tag: "Du lịch",
+    detail:
+      "Sa Pa là điểm trekking và du lịch sinh thái, với khí hậu mát mẻ quanh năm. Du khách trải nghiệm văn hóa dân tộc, homestay, chợ phiên và cảnh núi non hùng vĩ",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/sapa.png",
   },
   {
-    "id": 12,
-    "name": "Cố đô Huế",
-    "desc": "Kinh đô triều Nguyễn với cung điện và lăng tẩm lịch sử",
-    "tag": "Du lịch",
-    "detail": "Huế là trung tâm văn hóa và lịch sử, nổi tiếng với Đại Nội, lăng tẩm các vua Nguyễn, chùa Thiên Mụ. Đây là nơi bảo tồn nhiều giá trị văn hóa và kiến trúc cung đình",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/hue.png"
+    id: 12,
+    name: "Cố đô Huế",
+    desc: "Kinh đô triều Nguyễn với cung điện và lăng tẩm lịch sử",
+    tag: "Du lịch",
+    detail:
+      "Huế là trung tâm văn hóa và lịch sử, nổi tiếng với Đại Nội, lăng tẩm các vua Nguyễn, chùa Thiên Mụ. Đây là nơi bảo tồn nhiều giá trị văn hóa và kiến trúc cung đình",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/hue.png",
   },
   {
-    "id": 13,
-    "name": "Lễ hội Chọi Trâu Đồ Sơn",
-    "desc": "Lễ hội truyền thống ở Hải Phòng, hấp dẫn du khách",
-    "tag": "Lễ hội",
-    "detail": "Diễn ra vào tháng 8 âm lịch, lễ hội chọi trâu nhằm cầu may mắn, mùa màng bội thu. Đây vừa là lễ hội dân gian vừa là sự kiện thể thao truyền thống",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/choitrau.png"
+    id: 13,
+    name: "Lễ hội Chọi Trâu Đồ Sơn",
+    desc: "Lễ hội truyền thống ở Hải Phòng, hấp dẫn du khách",
+    tag: "Lễ hội",
+    detail:
+      "Diễn ra vào tháng 8 âm lịch, lễ hội chọi trâu nhằm cầu may mắn, mùa màng bội thu. Đây vừa là lễ hội dân gian vừa là sự kiện thể thao truyền thống",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/choitrau.png",
   },
   {
-    "id": 14,
-    "name": "Lễ hội Đền Hùng",
-    "desc": "Tưởng nhớ các vua Hùng, người sáng lập dân tộc",
-    "tag": "Lễ hội",
-    "detail": "Tổ chức vào 10/3 âm lịch, lễ hội bao gồm nghi lễ dâng hương, rước kiệu, hát Xoan, phản ánh lòng biết ơn tổ tiên và tinh thần dân tộc",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/denhung.png"
+    id: 14,
+    name: "Lễ hội Đền Hùng",
+    desc: "Tưởng nhớ các vua Hùng, người sáng lập dân tộc",
+    tag: "Lễ hội",
+    detail:
+      "Tổ chức vào 10/3 âm lịch, lễ hội bao gồm nghi lễ dâng hương, rước kiệu, hát Xoan, phản ánh lòng biết ơn tổ tiên và tinh thần dân tộc",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/denhung.png",
   },
   {
-    "id": 15,
-    "name": "Tết Trung Thu",
-    "desc": "Lễ hội thiếu nhi với bánh nướng, lồng đèn và múa lân",
-    "tag": "Lễ hội",
-    "detail": "Trung Thu là dịp trẻ em rước đèn, phá cỗ, xem múa lân và nhận quà. Đây là lễ hội truyền thống nhằm giáo dục văn hóa và kết nối gia đình",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/trungthu.png"
+    id: 15,
+    name: "Tết Trung Thu",
+    desc: "Lễ hội thiếu nhi với bánh nướng, lồng đèn và múa lân",
+    tag: "Lễ hội",
+    detail:
+      "Trung Thu là dịp trẻ em rước đèn, phá cỗ, xem múa lân và nhận quà. Đây là lễ hội truyền thống nhằm giáo dục văn hóa và kết nối gia đình",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/trungthu.png",
   },
   {
-    "id": 16,
-    "name": "Múa rối nước",
-    "desc": "Nghệ thuật dân gian với các con rối biểu diễn trên mặt nước",
-    "tag": "Nghệ thuật",
-    "detail": "Múa rối nước xuất phát từ đồng bằng Bắc Bộ, kể các câu chuyện dân gian bằng rối, âm nhạc truyền thống và hiệu ứng nước. Đây là biểu tượng độc đáo của nghệ thuật Việt Nam",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/roinuoc.png"
+    id: 16,
+    name: "Múa rối nước",
+    desc: "Nghệ thuật dân gian với các con rối biểu diễn trên mặt nước",
+    tag: "Nghệ thuật",
+    detail:
+      "Múa rối nước xuất phát từ đồng bằng Bắc Bộ, kể các câu chuyện dân gian bằng rối, âm nhạc truyền thống và hiệu ứng nước. Đây là biểu tượng độc đáo của nghệ thuật Việt Nam",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/roinuoc.png",
   },
   {
-    "id": 17,
-    "name": "Ca trù",
-    "desc": "Hình thức hát truyền thống cao cấp, kết hợp nhạc cụ và thơ",
-    "tag": "Nghệ thuật",
-    "detail": "Ca trù là nghệ thuật âm nhạc cung đình và dân gian, đòi hỏi kỹ thuật cao. Người hát thường kết hợp đàn đáy, phách và trống chầu, thể hiện câu thơ, nhịp điệu tinh tế",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/catru.png"
+    id: 17,
+    name: "Ca trù",
+    desc: "Hình thức hát truyền thống cao cấp, kết hợp nhạc cụ và thơ",
+    tag: "Nghệ thuật",
+    detail:
+      "Ca trù là nghệ thuật âm nhạc cung đình và dân gian, đòi hỏi kỹ thuật cao. Người hát thường kết hợp đàn đáy, phách và trống chầu, thể hiện câu thơ, nhịp điệu tinh tế",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/catru.png",
   },
   {
-    "id": 18,
-    "name": "Hát xoan Phú Thọ",
-    "desc": "Hình thức hát lễ hội cổ truyền, di sản văn hóa phi vật thể",
-    "tag": "Nghệ thuật",
-    "detail": "Hát xoan được trình diễn trong dịp lễ hội đầu năm, kèm nghi lễ cầu mùa và cầu tài. Đây là nét đặc trưng của văn hóa dân gian miền Bắc",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/hatxoan.png"
+    id: 18,
+    name: "Hát xoan Phú Thọ",
+    desc: "Hình thức hát lễ hội cổ truyền, di sản văn hóa phi vật thể",
+    tag: "Nghệ thuật",
+    detail:
+      "Hát xoan được trình diễn trong dịp lễ hội đầu năm, kèm nghi lễ cầu mùa và cầu tài. Đây là nét đặc trưng của văn hóa dân gian miền Bắc",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/hatxoan.png",
   },
   {
-    "id": 19,
-    "name": "Lụa Vạn Phúc",
-    "desc": "Làng nghề dệt lụa nổi tiếng, sản phẩm mềm mịn và tinh xảo",
-    "tag": "Thủ công & Quà lưu niệm",
-    "detail": "Lụa Vạn Phúc (Hà Đông) nổi bật với kỹ thuật dệt truyền thống, hoa văn đa dạng. Sản phẩm được dùng làm áo dài, khăn quàng, trang trí nội thất và quà lưu niệm",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/lua.png"
+    id: 19,
+    name: "Lụa Vạn Phúc",
+    desc: "Làng nghề dệt lụa nổi tiếng, sản phẩm mềm mịn và tinh xảo",
+    tag: "Thủ công & Quà lưu niệm",
+    detail:
+      "Lụa Vạn Phúc (Hà Đông) nổi bật với kỹ thuật dệt truyền thống, hoa văn đa dạng. Sản phẩm được dùng làm áo dài, khăn quàng, trang trí nội thất và quà lưu niệm",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/lua.png",
   },
   {
-    "id": 20,
-    "name": "Gốm Bát Tràng",
-    "desc": "Làng gốm nổi tiếng với các sản phẩm thủ công tinh xảo",
-    "tag": "Thủ công & Quà lưu niệm",
-    "detail": "Gốm Bát Tràng là làng nghề truyền thống gần Hà Nội, chuyên sản xuất bát, đĩa, bình hoa, tượng trang trí. Mỗi sản phẩm mang đậm dấu ấn văn hóa và kỹ thuật thủ công lâu đời",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/gom.png"
+    id: 20,
+    name: "Gốm Bát Tràng",
+    desc: "Làng gốm nổi tiếng với các sản phẩm thủ công tinh xảo",
+    tag: "Thủ công & Quà lưu niệm",
+    detail:
+      "Gốm Bát Tràng là làng nghề truyền thống gần Hà Nội, chuyên sản xuất bát, đĩa, bình hoa, tượng trang trí. Mỗi sản phẩm mang đậm dấu ấn văn hóa và kỹ thuật thủ công lâu đời",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/gom.png",
   },
   {
-    "id": 21,
-    "name": "Tranh Đông Hồ",
-    "desc": "Tranh dân gian truyền thống với hình ảnh sống động và ý nghĩa sâu sắc",
-    "tag": "Thủ công & Quà lưu niệm",
-    "detail": "Tranh Đông Hồ xuất xứ từ Bắc Ninh, nổi bật với màu sắc tươi sáng, chất liệu giấy dó và mực thiên nhiên. Tranh thường mô tả cuộc sống nông thôn, lễ hội, động vật hay cảnh sinh hoạt dân gian, vừa mang giá trị thẩm mỹ vừa là biểu tượng văn hóa truyền thống",
-    "img": "https://catalogue-backend-cfpg.onrender.com/images/dongho.png"
-  }
-]
+    id: 21,
+    name: "Tranh Đông Hồ",
+    desc: "Tranh dân gian truyền thống với hình ảnh sống động và ý nghĩa sâu sắc",
+    tag: "Thủ công & Quà lưu niệm",
+    detail:
+      "Tranh Đông Hồ xuất xứ từ Bắc Ninh, nổi bật với màu sắc tươi sáng, chất liệu giấy dó và mực thiên nhiên. Tranh thường mô tả cuộc sống nông thôn, lễ hội, động vật hay cảnh sinh hoạt dân gian, vừa mang giá trị thẩm mỹ vừa là biểu tượng văn hóa truyền thống",
+    img: "https://catalogue-backend-cfpg.onrender.com/images/dongho.png",
+  },
+];
