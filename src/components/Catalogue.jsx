@@ -38,6 +38,7 @@ function Catlogue() {
             <Card className="mb-3 p-2 h-100 d-flex flex-column">
               <Card.Img
                 src={p.img}
+                alt={p.name}
                 height={200}
                 style={{ objectFit: "cover" }}
               />
@@ -83,6 +84,7 @@ function Catlogue() {
               <div className="modal-body">
                 <img
                   src={selectedItem.img}
+                  alt={selectedItem.name}
                   className="img-fluid mb-3"
                   style={{
                     width: "100%",
