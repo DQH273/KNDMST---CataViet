@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+.app-bg {
+  background-image: url("../public/images/bg.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  position: relative;
+}
+
+.app-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.app-bg > * {
+  position: relative;
+  z-index: 1;
+}
