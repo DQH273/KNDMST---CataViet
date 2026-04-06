@@ -15,7 +15,7 @@ function Catlogue() {
   return (
     <>
       <Row>
-        <h1 className="mt-3 text-center">Catalogue Văn Hóa Việt</h1>
+        <h1 className="mt-3 text-center title-text">Catalogue Văn Hóa Việt</h1>
       </Row>
 
       {/* Filter */}
@@ -32,7 +32,7 @@ function Catlogue() {
         </Col>
       </Row>
 
-      <Row>
+      <Row className="mt-3 g-4">
         {chonPics.map((p) => (
           <Col key={p.id} md={3} className="d-flex">
             <Card className="mb-3 p-2 h-100 d-flex flex-column">
